@@ -1,0 +1,13 @@
+/*======css for style tile======*/ 
+
+
+body {  
+	max-width: 850px;
+	margin: 0 auto;  
+	-moz-box-shadow: 	2px 0px 5px #172742, -2px 0px 5px #172742; 
+	-o-box-shadow:		2px 0px 5px #172742, -2px 0px 5px #172742; 
+	-webkit-box-shadow: 2px 0px 5px #172742, -2px 0px 5px #172742;
+	box-shadow: 		2px 0px 5px #172742, -2px 0px 5px #172742; 
+	background-color: #717171;
+}
+
